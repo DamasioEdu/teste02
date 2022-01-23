@@ -6,4 +6,7 @@
 
 					echo "Tentativa de <strong>Negrito</strong>";
 
+
+echo "O teste foi um sucesso e tivemos êxito em tudo."
+
 ?>
